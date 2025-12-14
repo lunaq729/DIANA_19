@@ -1,0 +1,14 @@
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\bin\Debug\net10.0\semana03.exe
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\bin\Debug\net10.0\semana03.deps.json
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\bin\Debug\net10.0\semana03.runtimeconfig.json
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\bin\Debug\net10.0\semana03.dll
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\bin\Debug\net10.0\semana03.pdb
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\semana03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\semana03.AssemblyInfoInputs.cache
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\semana03.AssemblyInfo.cs
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\semana03.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\semana03.dll
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\refint\semana03.dll
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\semana03.pdb
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\semana03.genruntimeconfig.cache
+C:\Users\Personal\Documents\Etructuras de Datos\Semana03\obj\Debug\net10.0\ref\semana03.dll
