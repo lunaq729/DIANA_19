@@ -1,0 +1,14 @@
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\bin\Debug\net10.0\tarea2.exe
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\bin\Debug\net10.0\tarea2.deps.json
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\bin\Debug\net10.0\tarea2.runtimeconfig.json
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\bin\Debug\net10.0\tarea2.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\bin\Debug\net10.0\tarea2.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\tarea2.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\tarea2.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\tarea2.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\refint\tarea2.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\tarea2.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\tarea2.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana03\tarea3\obj\Debug\net10.0\ref\tarea2.dll
