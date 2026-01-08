@@ -1,0 +1,14 @@
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\Tarea05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\Tarea05.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\Tarea05.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\Tarea05.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\bin\Debug\net10.0\Tarea05.exe
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\bin\Debug\net10.0\Tarea05.deps.json
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\bin\Debug\net10.0\Tarea05.runtimeconfig.json
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\bin\Debug\net10.0\Tarea05.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\bin\Debug\net10.0\Tarea05.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\Tarea05.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\refint\Tarea05.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\Tarea05.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\Tarea05.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana05\Tarea05\obj\Debug\net10.0\ref\Tarea05.dll
