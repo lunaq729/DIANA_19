@@ -1,0 +1,14 @@
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\bin\Debug\net10.0\Tarea10.exe
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\bin\Debug\net10.0\Tarea10.deps.json
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\bin\Debug\net10.0\Tarea10.runtimeconfig.json
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\bin\Debug\net10.0\Tarea10.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\bin\Debug\net10.0\Tarea10.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\Tarea10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\Tarea10.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\Tarea10.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\Tarea10.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\Tarea10.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\refint\Tarea10.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\Tarea10.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\Tarea10.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\Semana10\Tarea10\obj\Debug\net10.0\ref\Tarea10.dll
