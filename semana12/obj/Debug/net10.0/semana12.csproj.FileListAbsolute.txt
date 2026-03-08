@@ -1,0 +1,14 @@
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\bin\Debug\net10.0\semana12.exe
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\bin\Debug\net10.0\semana12.deps.json
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\bin\Debug\net10.0\semana12.runtimeconfig.json
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\bin\Debug\net10.0\semana12.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\bin\Debug\net10.0\semana12.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\semana12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\semana12.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\semana12.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\semana12.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\semana12.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\refint\semana12.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\semana12.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\semana12.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\semana12\obj\Debug\net10.0\ref\semana12.dll

@@ -1,0 +1,15 @@
+=== EQUIPOS Y JUGADORES ===
+EQUIPO 1: Barcelon
+  Raul #6
+  Carlos #8
+  Joan #3
+  Jean #11
+  Javier #15
+
+EQUIPO 2: Real Madrid
+  Luis #10
+  Perre #2
+  Patito #19
+  Guido #13
+  Diego #21
+
