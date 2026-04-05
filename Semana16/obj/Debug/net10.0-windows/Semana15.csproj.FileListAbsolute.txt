@@ -1,0 +1,14 @@
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\bin\Debug\net10.0-windows\Semana15.exe
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\bin\Debug\net10.0-windows\Semana15.deps.json
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\bin\Debug\net10.0-windows\Semana15.runtimeconfig.json
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\bin\Debug\net10.0-windows\Semana15.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\bin\Debug\net10.0-windows\Semana15.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\Semana15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\Semana15.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\Semana15.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\Semana15.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\Semana15.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\refint\Semana15.dll
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\Semana15.pdb
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\Semana15.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Mis_Proyectos\semana15\obj\Debug\net10.0-windows\ref\Semana15.dll
